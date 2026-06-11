@@ -1,9 +1,4 @@
-- Hi, I’m @madaliniosu
-- Web developer focused on spec-driven, AI-assisted development
-- Transitioning from frontend to full-stack — building side projects along the way
-- JavaScript · TypeScript · Angular · React · Next.js · Tailwind CSS
-
-# Hi, I'm Madalin 👋
+# Hi, I'm Madalin
 
 Frontend developer with experience in sales and product management.
 I ship full-stack web apps — auth, payments, third-party APIs — and increasingly
