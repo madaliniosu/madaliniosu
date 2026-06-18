@@ -11,4 +11,4 @@ build with AI.
 
 **Stack:** TypeScript · React/Next.js · Angular · Astro · Supabase · Stripe · Tailwind
 
-📍 Spain, working remotely · 📬 iosu.gm@gmail.com · [LinkedIn](https://linkedin.com/in/madaliniosu)
+📍 Spain, working remotely · [Portfolio]https://madaliniosu.netlify.app/ ·📬 iosu.gm@gmail.com · [LinkedIn](https://linkedin.com/in/madaliniosu)
