@@ -5,8 +5,8 @@ I ship full-stack web apps — auth, payments, third-party APIs — and increasi
 build with AI.
 
 ## Featured work
-- 🏋️ [gym-rental2](https://github.com/madaliniosu/gym-rental2) — hourly gym booking: Stripe payments, smart-lock access, Supabase
-- 📸 [quotes](https://github.com/madaliniosu/quotes) — a personal quotes collection that uses Notion as a headless CMS
+- 🏋️ [private-gym-rental](https://github.com/madaliniosu/gym-rental2) — hourly gym booking: Stripe payments, smart-lock access, Supabase
+- 📸 [personal-quotes](https://github.com/madaliniosu/quotes) — personal quotes collection that uses Notion as a headless CMS
 - 🏗️ [moto-blog](https://github.com/madaliniosu/moto-blog) — Motorcycle trip blog — Astro + Decap CMS + Cloudinary, owner publishes via /admin
   
 **Stack:** TypeScript · React/Next.js · Angular · Astro · Supabase · Stripe · Tailwind
